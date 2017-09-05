@@ -1,5 +1,6 @@
 package com.my.pack;
 //adding comments to TEST.java program.
+//Checking git pull command
 public class Test {
       
 	public static void main(String[] args)
