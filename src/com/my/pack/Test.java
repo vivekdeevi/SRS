@@ -1,5 +1,5 @@
 package com.my.pack;
-
+//adding comments to TEST.java program.
 public class Test {
       
 	public static void main(String[] args)
